@@ -1596,5 +1596,503 @@
         "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/509980\\/capsule_616x353.jpg",
         "link": "https://www.clictune.com/mnGp",
         "mode": "multiplayer"
+    },
+    {
+        "title": "Workers Resources Soviet Republic",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/784150\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJj",
+        "mode": "solo"
+    },
+    {
+        "title": "Assassin's Creed",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/3035570\\/15583e1c0a34e5858cffed256ef8d3b372374d9d\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJk",
+        "mode": "solo"
+    },
+    {
+        "title": "Assassin's Creed II",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/33230\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJl",
+        "mode": "solo"
+    },
+    {
+        "title": "Assassin's Creed III Remastered",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/911400\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJn",
+        "mode": "solo"
+    },
+    {
+        "title": "Assassin's Creed IV Black Flag",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/242050\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJo",
+        "mode": "solo"
+    },
+    {
+        "title": "Assassin's Creed Origins",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/582160\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJp",
+        "mode": "solo"
+    },
+    {
+        "title": "Use Your Words",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/521350\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJr",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Metro 2033 Redux",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/286690\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJs",
+        "mode": "solo"
+    },
+    {
+        "title": "Moonlighter",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/606150\\/ba36152c7a623d5a9029a3eca5cbedc51d2e14dd\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJt",
+        "mode": "solo"
+    },
+    {
+        "title": "Bus Simulator 18",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/515180\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJu",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Winter Resort Simulator Season 2",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1420770\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJv",
+        "mode": "solo"
+    },
+    {
+        "title": "Poly Bridge 3",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1850160\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJw",
+        "mode": "solo"
+    },
+    {
+        "title": "Driver Parallel Lines",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/21780\\/header.jpg",
+        "link": "https://www.clictune.com/mnJF",
+        "mode": "solo"
+    },
+    {
+        "title": "Driver San Francisco",
+        "image": "https:\\/\\/i.imgur.com\\/RH7v7os.png",
+        "link": "https://www.clictune.com/mnJH",
+        "mode": "solo"
+    },
+    {
+        "title": "Red Dead Redemption 2",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1174180\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJM",
+        "mode": "solo"
+    },
+    {
+        "title": "Airport CEO",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/673610\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJO",
+        "mode": "solo"
+    },
+    {
+        "title": "Windbound",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1162130\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJQ",
+        "mode": "solo"
+    },
+    {
+        "title": "Donut County",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/702670\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJS",
+        "mode": "solo"
+    },
+    {
+        "title": "Drug Dealer Simulator",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/682990\\/0c066054fd5c54b9a12dcc2fdd529ae09c7c67f0\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJU",
+        "mode": "solo"
+    },
+    {
+        "title": "Saints Row 2",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/9480\\/header.jpg",
+        "link": "https://www.clictune.com/mnJW",
+        "mode": "solo"
+    },
+    {
+        "title": "Omsi 2",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/252530\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnJZ",
+        "mode": "solo"
+    },
+    {
+        "title": "Dead rising 2",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/45740\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnK1",
+        "mode": "solo"
+    },
+    {
+        "title": "Snowtopia",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1124260\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnK4",
+        "mode": "solo"
+    },
+    {
+        "title": "Resident Evil 4 Ultimate HD Edition",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/254700\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnK6",
+        "mode": "solo"
+    },
+    {
+        "title": "Noita",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/881100\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnK8",
+        "mode": "solo"
+    },
+    {
+        "title": "L.A. Noire",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/110800\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnK9",
+        "mode": "solo"
+    },
+    {
+        "title": "Aliens Colonial Marine",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/49540\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKa",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "PAC-MAN CHAMPIONSHIP EDITION 2",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/441380\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKd",
+        "mode": "solo"
+    },
+    {
+        "title": "People Playground",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1118200\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKf",
+        "mode": "solo"
+    },
+    {
+        "title": "Pumped BMX Pro",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/966720\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKh",
+        "mode": "solo"
+    },
+    {
+        "title": "Insurgency",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/222880\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKj",
+        "mode": "solo"
+    },
+    {
+        "title": "Fireworks Mania - An Explosive Simulator",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1079260\\/f644c1d21078dd996d86ee4392f7ef8307f5e3e8\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKk",
+        "mode": "solo"
+    },
+    {
+        "title": "Party Hard",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/356570\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKl",
+        "mode": "solo"
+    },
+    {
+        "title": "Party Hard 2",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/572430\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKm",
+        "mode": "solo"
+    },
+    {
+        "title": "CRANGA! Harbor Frenzy",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/517970\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKn",
+        "mode": "solo"
+    },
+    {
+        "title": "Devour",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1274570\\/5f17e30c0192b9ef30e809683b91219821c49dd8\\/capsule_616x353_alt_assets_4.jpg",
+        "link": "https://www.clictune.com/mnKo",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Dead Island Definitive Edition",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/383150\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKp",
+        "mode": "solo"
+    },
+    {
+        "title": "Dead Island Riptide Definitive Edition",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/383180\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKq",
+        "mode": "solo"
+    },
+    {
+        "title": "Dead Island Retro Revenge",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/337360\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKr",
+        "mode": "solo"
+    },
+    {
+        "title": "Ooblets",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/593150\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnKs",
+        "mode": "solo"
+    },
+    {
+        "title": "Stonehearth",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/253250\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLL",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "UnderMine",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/656350\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLM",
+        "mode": "solo"
+    },
+    {
+        "title": "Mechanica",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1226990\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLN",
+        "mode": "solo"
+    },
+    {
+        "title": "DARK SOULS REMASTERED",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/570940\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLO",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Dark Souls II",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/236430\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLP",
+        "mode": "solo"
+    },
+    {
+        "title": "Mxbikes",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/655500\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLQ",
+        "mode": "solo"
+    },
+    {
+        "title": "Stardew Valley",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/413150\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLR",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Teardown",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1167630\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLS",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Ghostrunner",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1139900\\/60f0924935dd337bb0a023558939b29aa666d168\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLT",
+        "mode": "solo"
+    },
+    {
+        "title": "Grounded",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/962130\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLU",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "King of Retail",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/968250\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLV",
+        "mode": "solo"
+    },
+    {
+        "title": "Mega Man 11",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/742300\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLW",
+        "mode": "solo"
+    },
+    {
+        "title": "Tank Mechanic Simulator",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/407130\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLX",
+        "mode": "solo"
+    },
+    {
+        "title": "Jump force",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/816020\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLY",
+        "mode": "solo"
+    },
+    {
+        "title": "Streamer Life Simulator",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1261040\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnLZ",
+        "mode": "solo"
+    },
+    {
+        "title": "Suicide Guy Deluxe Edition",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1972820\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnM0",
+        "mode": "solo"
+    },
+    {
+        "title": "Hades",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1145360\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnM1",
+        "mode": "solo"
+    },
+    {
+        "title": "OneShot",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/420530\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnM2",
+        "mode": "solo"
+    },
+    {
+        "title": "Days Gone",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1259420\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnM3",
+        "mode": "solo"
+    },
+    {
+        "title": "Dicey dungeons",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/861540\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnM4",
+        "mode": "solo"
+    },
+    {
+        "title": "Barotrauma",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/602960\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnM5",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Just Die Already",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/979070\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnM6",
+        "mode": "solo"
+    },
+    {
+        "title": "Spore",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/17390\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnM7",
+        "mode": "solo"
+    },
+    {
+        "title": "Life is Strange",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/319630\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnM8",
+        "mode": "solo"
+    },
+    {
+        "title": "Rayman Legends",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/242550\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnM9",
+        "mode": "solo"
+    },
+    {
+        "title": "Half Dead",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/434730\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMa",
+        "mode": "solo"
+    },
+    {
+        "title": "Half Dead 2",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/914260\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMb",
+        "mode": "solo"
+    },
+    {
+        "title": "Police Simulator Patrol Officers",
+        "image": "https://shared.fastly.steamstatic.com//store_item_assets//steam//apps//997010//849658b8ef82f1123a581ce00a5138747055465f//capsule_616x353_alt_assets_1.jpg",
+        "link": "https://www.clictune.com/mnMc",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Trailmakers",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/585420\\/9363a927b4f1329597e90122f51f2ce1a53801cc\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMd",
+        "mode": "solo"
+    },
+    {
+        "title": "The Game of Life 2",
+        "image": "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1455630\\/13e92781114d4cd33c1535cb35c77f3acb665e2e\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMe",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Sekiro",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/814380\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMf",
+        "mode": "solo"
+    },
+    {
+        "title": "Horizon Zero Dawn",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/2561580\\/b1967a5567a09cf8f8b67e56ed90ebb074fc1e53\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMg",
+        "mode": "solo"
+    },
+    {
+        "title": "Gauntlet",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/258970\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMh",
+        "mode": "solo"
+    },
+    {
+        "title": "Crusader Kings III",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1158310\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMj",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "The Architect Paris",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1525620\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMk",
+        "mode": "solo"
+    },
+    {
+        "title": "Trailer Shop Simulator",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1553230\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMl",
+        "mode": "solo"
+    },
+    {
+        "title": "Mafia Definitive Edition",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1030840\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMm",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Guts and Glory",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/537340\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMo",
+        "mode": "solo"
+    },
+    {
+        "title": "Mini Motorways",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/1127500\\/ea3cf849947a6adf2ab19ca79d14042d4e8374c2\\/capsule_616x353_alt_assets_0.jpg",
+        "link": "https://www.clictune.com/mnMp",
+        "mode": "solo"
+    },
+    {
+        "title": "Two Point Hospital",
+        "image": "https:\\/\\/shared.fastly.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/535930\\/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMq",
+        "mode": "solo"
+    },
+    {
+        "title": "Mud runner",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/675010/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMr",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+        "image": "https://i.imgur.com/v3oSUOU.jpeg",
+        "link": "https://www.clictune.com/mnP1",
+        "mode": "multiplayer"
+    },
+    {
+        "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1020790/capsule_616x353.jpg",
+        "link": "https://www.clictune.com/mnMu",
+        "mode": "multiplayer"
     }
 ]
